@@ -4,6 +4,7 @@
 <div>
 <a href="https://github.com/Paaul0">
 <img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaul0&layout=compact&langs_count=7&theme=dark"/>
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Paaul0&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -13,6 +14,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Paaul0&show_icons=true" />
+    </picture>
 </div>
 
 ## Contatos:
