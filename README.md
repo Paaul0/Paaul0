@@ -1,9 +1,8 @@
 
-## My name is Paulo!
-
+## Hi there, I'm Paulo!
+-I'm a software developer focused on the front-end, but I'm also venturing into back-end development. I am an enthusiast for learning new things.
 ## Contatos:
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="http://linkedin.com/in/paulo-neto-9b0262238" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
