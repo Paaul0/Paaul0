@@ -1,45 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
+
 ## My name is Paulo!
-
-<div>
-
-  <a href="https://github.com/Paaul0">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaul0&layout=compact&langs_count=7&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaul0&layout=compact&langs_count=7&theme=light"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img 
-        loading="lazy" 
-        height="195px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaul0&layout=compact&langs_count=7&theme=light" 
-      />
-    </picture>
-  </a>
-  
-  <a href="https://github.com/Paaul0">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Paaul0&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Paaul0&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img 
-        loading="lazy"
-        height="195px" 
-        src="https://github-readme-stats.vercel.app/api?username=Paaul0&show_icons=true" 
-      />
-    </picture>
-  </a>
-
-</div>
 
 ## Contatos:
 <div>
